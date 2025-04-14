@@ -13,9 +13,9 @@
   
 
 # Estrutura do projeto
-<p align="center">
+
   <img src= "https://github.com/JohnnyMatheus/prog3-a1-poo-Johnny-Matheus-Nogueira-de-Medeiro/blob/main/image/estrutura%20do%20projeto.png" />
-</p>
+
 
 
 
