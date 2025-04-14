@@ -10,8 +10,22 @@
 ## ⚒️Ferramentas utilizadas
 |[<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width=115><br><sub>GitHub</sub>](https://github.com/) |[<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width=115><br><sub>VS Code</sub>](https://code.visualstudio.com/) | [<img src="https://www.apachefriends.org/images/xampp-logo-ac950edf.svg" width=115><br><sub>Xampp</sub>](https://www.apachefriends.org/pt_br/index.html)|[<img src="https://www.php.net/images/logos/new-php-logo.svg" width=115><br><sub>PHP</sub>](https://www.php.net/)| [<img src="https://icons.getbootstrap.com/assets/img/icons-hero.png" width=115><br><sub>Bootstrap</sub>](https://getbootstrap.com/)|
 | :---: | :---: | :---: | :---: | :---: |
-  
 
+# Requisitos Funcionais
+ ## 🔶1. Cadastro:
+🔸Formulário para nome, e-mail e senha.
+🔸Validação e sanitiza¸c˜ ao dos dados.
+🔸Instanciação de um objeto da classe Usuario.
+## 🔶2. Login:
+ 🔸 Verificação de credenciais em uma estrutura simulada (array).
+ 🔸Caso sucesso, iniciar sessão e redirecionar.
+ 1
+• Criar cookie se o checkbox “Lembrar e-mail” estiver marcado.
+ 3. Dashboard:
+ • Exibir nome do usu´ ario da sess˜ao.
+ • Mostrar e-mail salvo no cookie (se existir).
+ 4. Logout:
+ • Encerrar sess˜ao e redirecionar para tela de login.
 # Estrutura do projeto
 
   <img src= "https://github.com/JohnnyMatheus/prog3-a1-poo-Johnny-Matheus-Nogueira-de-Medeiro/blob/main/image/estrutura%20do%20projeto.png" />
