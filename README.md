@@ -21,7 +21,7 @@
 | [<img src="https://avatars.githubusercontent.com/u/128015032?v=4" width=115><br><sub>Johnny Matheus Nogueira de Medeiro</sub>](https://github.com/JohnnyMatheus) |
 | :---: 
 
-## 🔷Professores
+## 🔷Professor
 | [<img src="https://avatars.githubusercontent.com/u/15215?v=4" width=115><br><sub>Leandro Otávio Córdova Vieira</sub>](https://github.com/publlius) |
 | :---: |
 
