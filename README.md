@@ -12,17 +12,20 @@
 | :---: | :---: | :---: | :---: | :---: |
 
 # Requisitos Funcionais
- ## 🔶1. Cadastro:
+## 🔶1. Cadastro:
 <p>🔸Formulário para nome, e-mail e senha.</p>
 <p>🔸<p>Validação e sanitiza¸c˜ ao dos dados.</p>
 <p>🔸Instanciação de um objeto da classe Usuario.</p>
+
 ## 🔶2. Login:
 <p>🔸Verificação de credenciais em uma estrutura simulada (array).</p>
 <p>🔸Caso sucesso, iniciar sessão e redirecionar.</p>
 <p>🔸Criar cookie se o checkbox “Lembrar e-mail” estiver marcado.</p>
+
 ## 🔶3. Dashboard:
 <p>🔸Exibir nome do usuário da sessãoo.</p>
- Mostrar e-mail salvo no cookie (se existir).</p>
+<p>🔸 Mostrar e-mail salvo no cookie (se existir).</p>
+
 ## 🔶4. Logout:
 <p>🔸Encerrar sessão e redirecionar para tela de login.</p>
  
