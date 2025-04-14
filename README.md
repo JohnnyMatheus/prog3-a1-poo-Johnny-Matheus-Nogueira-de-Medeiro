@@ -9,11 +9,10 @@
 
 ## ⚒️Ferramentas utilizadas
 <p align="center">
-  
 |[<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width=115><br><sub>GitHub</sub>](https://github.com/) |[<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width=115><br><sub>VS Code</sub>](https://code.visualstudio.com/) | [<img src="https://www.apachefriends.org/images/xampp-logo-ac950edf.svg" width=115><br><sub>Xampp</sub>](https://www.apachefriends.org/pt_br/index.html)|[<img src="https://www.php.net/images/logos/new-php-logo.svg" width=115><br><sub>PHP</sub>](https://www.php.net/)|
-| :---: | :---: | :---: | :---: |
+| :---: | :---: | :---: | :---: | </p>
   
-</p>
+
 # Estrutura do projeto
 <p align="center">
   <img src= "https://github.com/JohnnyMatheus/prog3-a1-poo-Johnny-Matheus-Nogueira-de-Medeiro/blob/main/image/estrutura%20do%20projeto.png" />
