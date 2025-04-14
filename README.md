@@ -13,19 +13,19 @@
 
 # Requisitos Funcionais
  ## 🔶1. Cadastro:
-🔸Formulário para nome, e-mail e senha.
-🔸Validação e sanitiza¸c˜ ao dos dados.
-🔸Instanciação de um objeto da classe Usuario.
+🔸<p>Formulário para nome, e-mail e senha.</p>
+🔸<p>Validação e sanitiza¸c˜ ao dos dados.</p>
+🔸Instanciação de um objeto da classe Usuario.</p>
 ## 🔶2. Login:
- 🔸 Verificação de credenciais em uma estrutura simulada (array).
- 🔸Caso sucesso, iniciar sessão e redirecionar.
- 1
-• Criar cookie se o checkbox “Lembrar e-mail” estiver marcado.
- 3. Dashboard:
- • Exibir nome do usu´ ario da sess˜ao.
- • Mostrar e-mail salvo no cookie (se existir).
- 4. Logout:
- • Encerrar sess˜ao e redirecionar para tela de login.
+ 🔸<p>Verificação de credenciais em uma estrutura simulada (array).</p>
+ 🔸<p>Caso sucesso, iniciar sessão e redirecionar.</p>
+ 🔸<p>Criar cookie se o checkbox “Lembrar e-mail” estiver marcado.</p>
+## 🔶3. Dashboard:
+ 🔸<p>Exibir nome do usu´ ario da sessãoo.</p>
+ 🔸<p>Mostrar e-mail salvo no cookie (se existir).</p>
+ ## 🔶4. Logout:
+ 🔸<p>Encerrar sess˜ao e redirecionar para tela de login.</p>
+ 
 # Estrutura do projeto
 
   <img src= "https://github.com/JohnnyMatheus/prog3-a1-poo-Johnny-Matheus-Nogueira-de-Medeiro/blob/main/image/estrutura%20do%20projeto.png" />
