@@ -8,25 +8,31 @@
 require_once 'Usuario.php';
 
 class Autenticador {
-    private static array $usuarios = [];
-
     public static function registrar(Usuario $usuario): bool {
-        foreach (self::$usuarios as $u) {
+        self::iniciar();
+        foreach ($_SESSION['usuarios'] ?? [] as $u) {
             if ($u->getEmail() === $usuario->getEmail()) {
-                return false; // E-mail já cadastrado
+                return false;
             }
         }
-        self::$usuarios[] = $usuario;
+        $_SESSION['usuarios'][] = $usuario;
         return true;
     }
 
     public static function login(string $email, string $senha): ?Usuario {
-        foreach (self::$usuarios as $usuario) {
+        self::iniciar();
+        foreach ($_SESSION['usuarios'] ?? [] as $usuario) {
             if ($usuario->getEmail() === $email && $usuario->autenticar($senha)) {
                 return $usuario;
             }
         }
         return null;
+    }
+
+    private static function iniciar(): void {
+        if (session_status() === PHP_SESSION_NONE) {
+            session_start();
+        }
     }
 }
 
