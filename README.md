@@ -13,7 +13,7 @@
 
 # Requisitos Funcionais
  ## 🔶1. Cadastro:
-🔸<p>Formulário para nome, e-mail e senha.</p>
+<p>🔸Formulário para nome, e-mail e senha.</p>
 🔸<p>Validação e sanitiza¸c˜ ao dos dados.</p>
 🔸Instanciação de um objeto da classe Usuario.</p>
 ## 🔶2. Login:
