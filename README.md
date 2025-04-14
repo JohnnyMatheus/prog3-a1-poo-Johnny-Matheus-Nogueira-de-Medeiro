@@ -12,22 +12,23 @@
 | :---: | :---: | :---: | :---: | :---: |
 
 # Requisitos Funcionais
-## 🔶1. Cadastro:
-<p>🔸Formulário para nome, e-mail e senha.</p>
-<p>🔸<p>Validação e sanitiza¸c˜ ao dos dados.</p>
-<p>🔸Instanciação de um objeto da classe Usuario.</p>
 
-## 🔶2. Login:
-<p>🔸Verificação de credenciais em uma estrutura simulada (array).</p>
-<p>🔸Caso sucesso, iniciar sessão e redirecionar.</p>
-<p>🔸Criar cookie se o checkbox “Lembrar e-mail” estiver marcado.</p>
+## 🔶 1. Cadastro:
+- 🔸 Formulário para nome, e-mail e senha.
+- 🔸 Validação e sanitização dos dados.
+- 🔸 Instanciação de um objeto da classe Usuario.
 
-## 🔶3. Dashboard:
-<p>🔸Exibir nome do usuário da sessãoo.</p>
-<p>🔸 Mostrar e-mail salvo no cookie (se existir).</p>
+## 🔶 2. Login:
+- 🔸 Verificação de credenciais em uma estrutura simulada (array).
+- 🔸 Caso sucesso, iniciar sessão e redirecionar.
+- 🔸 Criar cookie se o checkbox "Lembrar e-mail" estiver marcado.
 
-## 🔶4. Logout:
-<p>🔸Encerrar sessão e redirecionar para tela de login.</p>
+## 🔶 3. Dashboard:
+- 🔸 Exibir nome do usuário da sessão.
+- 🔸 Mostrar e-mail salvo no cookie (se existir).
+
+## 🔶 4. Logout:
+- 🔸 Encerrar sessão e redirecionar para tela de login.
  
 # Estrutura do projeto
 
