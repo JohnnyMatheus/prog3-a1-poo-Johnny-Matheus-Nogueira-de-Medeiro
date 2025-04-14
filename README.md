@@ -3,4 +3,7 @@
 Nome completo: Johnny Matheus Nogueira de Medeiro
 Turma: Ciências da Computação UNOESC - São Miguel do Oeste
 
+# Descrição do projeto
+<p>Projeto desenvolvido envolvendo a diciplina de Programação III do curso de Ciências da Computação. O projeto tem por objetivo por em prática o desenvolvimento de uma aplicação web utilizando apenas PHP puro, estruturada com orientação a objetos (POO), que permita o registro e autenticação de usuários com persistência de sessão e cookies, utilizando boas práticas de programação e organização de código.</p>
+
 
