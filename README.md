@@ -44,7 +44,7 @@
 - Clone este repositório dentro de htdocs caso esteja usando o xampp
 - Abra o Xampp Control Panel
 - Clique em start Apache
-- Abra o navegadr de sua preferência (Google chrome, Mozila, Opera, EDGE, etc..)
+- Abra o navegador de sua preferência (Google chrome, Mozila, Opera, EDGE, etc..)
 - Digite localhost e acesse o diretório do projeto
 - Observações caso tenha instalado o xampp remova todos os arquivos que ficam dentro de htdocs e deixe só a pasta d projeto para testar
 ## 🧠Desenvolvedor
