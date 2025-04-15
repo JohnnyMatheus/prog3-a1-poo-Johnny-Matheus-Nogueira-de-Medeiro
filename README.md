@@ -40,7 +40,7 @@
 # 🔷Instruções para execultar localmente
 - Para este projeto utilizei o xampp
 - Baixe e instale o Xampp ou software de sua preferência
-- Baixe e instalar o Git ou clone direto do site
+- Baixe e instale o Git ou clone  repositório direto do site
 - Clone este repositório dentro de htdocs caso esteja usando o xampp
 - Abra o Xampp Control Panel
 - Clique em start Apache
