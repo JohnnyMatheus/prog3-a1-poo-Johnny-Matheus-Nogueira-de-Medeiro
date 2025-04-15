@@ -35,6 +35,7 @@
   <img src= "https://github.com/JohnnyMatheus/prog3-a1-poo-Johnny-Matheus-Nogueira-de-Medeiro/blob/main/image/estrutura%20do%20projeto.png" />
 
 # Demonstração
+<img src="https://github.com/JohnnyMatheus/prog3-a1-poo-Johnny-Matheus-Nogueira-de-Medeiro/blob/main/image/demonstra%C3%A7%C3%A3o.gif"/>
 
 # Instruções para execultar localmente
 ## 🧠Desenvolvedor
